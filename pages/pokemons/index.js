@@ -1,5 +1,7 @@
-import React, { useEffect } from 'react'
+import React, {useEffect} from 'react'
 import Head from "next/head"
+
+
 //import pokemons from "@/assets/sampledataset.json"
 import PokemonList from '@/components/PokemonList'
 import Title from '@/components/Title'
